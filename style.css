@@ -1,0 +1,40 @@
+.img1{
+    border-radius: 50%;
+}
+img {
+  width: 100%;
+  }
+  .fig{
+    background-color: whitesmokes;
+  }
+.full{
+  width: 50%;
+  max-width: 1000px;
+  min-height: 100px;
+  background-color: aliceblue;
+  margin: 0px;
+  display: grid;
+   grid-template-columns: 2fr 4fr;
+
+}
+.left{
+  position: initial;
+  background-color: azure;
+  padding: 20px;
+}
+.right{
+  position: initial;
+  background-color:aquas;
+  padding: 20px;
+}
+.btn{
+  background-color: blue;
+  border:none;
+  color: aliceblue;
+  padding: 12px 30px;
+  cursor:pointer;
+  font-size:20px ;
+}
+.btn:hover{
+  background-color: darkblues;
+}
